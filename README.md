@@ -1,5 +1,5 @@
 # hello-world
-just a repository for our project
+just a repository
 This is the attempt of editing a this branch document to be commited
 I am trying to attemp the second branch creation, commit, pull request and mergin of the branch and finally deleting the branch.
 the thir attempts
